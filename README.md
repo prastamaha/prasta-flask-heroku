@@ -26,4 +26,4 @@
 
 ## visit this app
 
-    [https://prasta-flask.herokuapp.com](https://prasta-flask.herokuapp.com)
+[https://prasta-flask.herokuapp.com](https://prasta-flask.herokuapp.com/)
