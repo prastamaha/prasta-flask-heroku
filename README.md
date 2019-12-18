@@ -23,3 +23,7 @@
     $ git commit -m 'first commit'          # commit the change
     $ heroku git:remote --app prasta-flask  # tell git to remote prasta-flask for this directory
     $ git push heroku master                # push to the heroku production 
+
+# visit this app
+
+    https://prasta-flask.herokuapp.com
